@@ -98,11 +98,10 @@ h5.card-title{
 }
 
 a{
-    margin: 15%;
-    text-align: center;
-    color: red;
- 
     
+    color: red;
+    display: contents;
+    margin-left: 50px;
 
 }
 
