@@ -1,15 +1,10 @@
 body{
-    background-color: black;
+    background-color : blueviolet;
     font-family: 'Playfair Display', serif;
-    color :gray;
+    color : black;
 }
 
-
-  .nav{
-      background-color: whitesmoke;
-      padding: 20px 10px 20px 10px;
-      text-align: justify; 
-  }
+  
 
   h1{
       background-color: beige;
@@ -68,7 +63,7 @@ div .container-fluid{
 
 
 iframe{
-    border: 3px solid purple;
+    border: 3px solid white;
     border-radius: 8px;
     display: block;
   margin-left: auto;
@@ -76,20 +71,18 @@ iframe{
   width: 50%;
 }
 
-figcaption{
-    text-align: center;
-    font-size: x-large;
 
-}
+
+
 
 
 img{
     border-radius: 8px;
-    border: 5px solid purple;
+    border: 5px solid beige;
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 25%;
 }
 
 h5.card-title{
@@ -97,18 +90,18 @@ h5.card-title{
     text-align: center;
 }
 
-a{
-    
-    color: red;
-    display: contents;
-    margin-left: 50px;
-
+a.active{
+background-image: url(https://th.bing.com/th/id/OIP.dALFLmJ44DgtYcCsYoQ9LwHaEK?w=301&h=180&c=7&r=0&o=5&dpr=1.15&pid=1.7);
+padding: 25px;
+ font-size: x-large;
+ margin: 20px;
+ color: white;
+ border-radius: 10px;
 }
 
 
 p{
-    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.fwcansCoM7HILX28p9yqxwHaE9%26pid%3DApi&f=1);
-    color:black;
+    color:whitesmoke;
 }
 
 
@@ -118,7 +111,15 @@ header{
 }
 
 
+footer{
+    background-image: url(https://th.bing.com/th/id/OIP.dALFLmJ44DgtYcCsYoQ9LwHaEK?w=301&h=180&c=7&r=0&o=5&dpr=1.15&pid=1.7);
+}
 
+a{
+    color: yellow;
+    margin:10px;
+    font-size:large;
 
+}
 
 
