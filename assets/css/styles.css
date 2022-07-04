@@ -1,5 +1,5 @@
 body{
-    background-color:blueviolet;
+    background-image:url(https://th.bing.com/th/id/OIP.S5iw4qZnoynwr_2nSIt58QAAAA?w=236&h=354&c=7&o=5&dpr=1.15&pid=1.7);
     font-family: 'Playfair Display', serif;
     color : black;
    
@@ -8,7 +8,7 @@ body{
   
 
   h1{
-      background-color: beige;
+      background-color: blueviolet;
       text-align: center;
   }
 
@@ -16,15 +16,12 @@ body{
       width: 40%;
       height: 40%;
       border-radius:50%;
-      border: 5px double beige;
+      border: 5px double purple;
   }
 
 
 
-  footer{
-      background-color: bisque;
-      padding: 20px 10px 20px 10px;
-  }
+  
 
   h2{
       text-align:left;
@@ -42,7 +39,7 @@ body{
   }
 
   div .flex-container{
-      border: 5px solid beige;
+      border: 5px solid purple;
        justify-content: flex-end; 
   }
 
@@ -92,17 +89,15 @@ h5.card-title{
 }
 
 a.active{
-background-image: url(https://th.bing.com/th/id/OIP.dALFLmJ44DgtYcCsYoQ9LwHaEK?w=301&h=180&c=7&r=0&o=5&dpr=1.15&pid=1.7);
-padding: 25px;
- font-size: x-large;
- margin: 20px;
+background-image: url(https://th.bing.com/th/id/OIP.wksAySGqbACRBzWLh0wZ2gHaFO?w=246&h=180&c=7&r=0&o=5&dpr=1.15&pid=1.7);
  color: white;
  border-radius: 10px;
+ padding: 20px;
 }
 
 
 p{
-    color:whitesmoke;
+    color: black;
 }
 
 
@@ -112,15 +107,18 @@ header{
 }
 
 
-footer{
-    background-image: url(https://th.bing.com/th/id/OIP.dALFLmJ44DgtYcCsYoQ9LwHaEK?w=301&h=180&c=7&r=0&o=5&dpr=1.15&pid=1.7);
-}
+
 
 a{
-    color: yellow;
+    color: blue;
     margin:10px;
     font-size:large;
+    background-color: aqua;
 
+}
+
+label{
+    background-color: aqua;
 }
 
 
